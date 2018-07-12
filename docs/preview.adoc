@@ -1,5 +1,7 @@
 = Easing previews
 
+These images are produced by simple functions that accept the current time, start value, amount of change when the animation ends, and animation lengths. They are Robert Penner's famous easing functions.
+
 image::linear.png[linear function]
 image::inQuad.png[inQuad function]
 image::outQuad.png[outQuad function]
@@ -22,3 +24,7 @@ image::inOutExpo.png[inOutExpo function]
 image::inCirc.png[inCirc function]
 image::outCirc.png[outCirc function]
 image::inOutCirc.png[inOutCirc function]
+
+Ryan Juckett's damped springs code is also available:
+
+image::spring.png[]
